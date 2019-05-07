@@ -2,6 +2,7 @@
 Rendering visual effects using advanced features of OpenGL 4.x
 
 This project is complied and ran in Visual Studios 2019 (also works with Visual Studios 2010 and up)
+
 Programming language: C/C++ and OpenGL Shader Language (GLSL)
 
 All the source files are located in the "Source" folder
@@ -11,7 +12,6 @@ The Visual Studios Solution file (cse3431Template.sln located in the cse3431Temp
 If you are using an older version of VS:
 - In Visual Studios under the Solution Explorer, Right-click "cse3431Template" and click on options
 - Under Configuration Properties -> General -> Platform Toolset, change it to your version of Visual Studios
-
 
 NOTE: The libraries are linked using absolute pathing; therefore, only working on my specific machine (instructions below)
 NOTE: Relative pathing didn't work for libraries but worked for include files for some reason
